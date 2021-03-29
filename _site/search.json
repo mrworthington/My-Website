@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About Matt",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\nThis is a little bit about me and my backbround.\nThing 1\nThing 2\n\n\n\n",
+      "last_modified": "2021-03-29T16:33:39-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Welcome to Matt's Website",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-29T16:33:40-05:00"
+    }
+  ],
+  "collections": []
+}

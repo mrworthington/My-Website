@@ -1,0 +1,14 @@
+---
+title: "About Matt"
+description: |
+  Some additional details about the website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+This is a little bit about me and my backbround.
+
+* Thing 1
+* Thing 2
