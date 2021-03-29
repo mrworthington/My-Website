@@ -5,8 +5,8 @@
       "title": "About Matt",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\nThis is a little bit about me and my backbround.\nThing 1\nThing 2\n\n\n\n",
-      "last_modified": "2021-03-29T16:33:39-05:00"
+      "contents": "\nThis is a little bit about me and my background\nI’m from San Antonio, Texas.\nI went to the LBJ School of Public Affairs.\n\n\n\n",
+      "last_modified": "2021-03-29T16:43:42-05:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-03-29T16:33:40-05:00"
+      "last_modified": "2021-03-29T16:43:43-05:00"
     }
   ],
   "collections": []

@@ -8,7 +8,7 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-This is a little bit about me and my backbround.
+This is a little bit about me and my background
 
-* Thing 1
-* Thing 2
+* I'm from San Antonio, Texas.
+* I went to the LBJ School of Public Affairs.
